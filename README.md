@@ -22,3 +22,7 @@ The game was made using the Turtle library in Python. The game allows two player
 * The code can be run be simply running the basic python file run command on the terminal.
 ```
 python pong.py 
+```
+## License
+
+This project is licensed under the [MIT] License - see the LICENSE file for details
