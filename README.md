@@ -4,6 +4,11 @@ This is a simple implementation of the classic Pong game.
 ## Description
 The game was made using the Turtle library in Python. The game allows two players to control paddles and compete against each other to prevent the ball from going past their side of the screen.
 
+## Project Image 
+
+![Screenshot 2023-06-18 101155](https://github.com/AtulRaghuvanshi73/Pong/assets/113249077/5745cae2-f44b-4579-bd59-a8c1c698d8eb)
+
+
 ## Getting Started
 
 ### Dependencies
