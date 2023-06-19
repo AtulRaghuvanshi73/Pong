@@ -1,4 +1,4 @@
-# Project Title
+# Pong 
 This is a simple implementation of the classic Pong game.
 
 ## Description
